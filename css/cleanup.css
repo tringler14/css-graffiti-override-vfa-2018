@@ -11,6 +11,6 @@ div + div{
   display: none;
 }*/
 
-#wall > div #tag-2{
+#wall > .tag-2{
   display: none;
 }
