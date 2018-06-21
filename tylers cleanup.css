@@ -1,0 +1,23 @@
+/* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+div + div{
+  display: none;
+}
+
+/*#wall > div[id$="tag-2"] {
+  display: none;
+}*/
+
+body > #wall #tag-2{
+  display: none;
+}
+
+[class$="tag-1"] + id {
+  display: none;
+}
+body > div#wall #tag-3.slick{
+  display: none;
+}
