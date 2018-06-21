@@ -18,6 +18,6 @@ div + div{
 [class$="tag-1"] + id {
   display: none;
 }
-#wall : last-child {
+id : last-child {
   display: none;
 }
