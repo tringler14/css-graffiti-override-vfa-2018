@@ -3,6 +3,6 @@
   display: none;
 }
 
-div ~ div {
+div ~ div +div {
   display: none;
 }
