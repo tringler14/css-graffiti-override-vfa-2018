@@ -7,9 +7,9 @@ div + div{
   display: none;
 }
 
-#wall > div[id$="tag-2"] {
+/*#wall > div[id$="tag-2"] {
   display: none;
-}
+}*/
 
 #wall > id{
   display: none;
