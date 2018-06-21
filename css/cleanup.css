@@ -3,6 +3,10 @@
   display: none;
 }
 
+#wall + div {
+  display: none;
+}
+
 div + div{
   display: none;
 }
