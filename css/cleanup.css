@@ -3,13 +3,13 @@
   display: none;
 }
 
-#wall + div {
+div + #wall #tag-2{
   display: none;
 }
-
+/*
 div + div{
   display: none;
-}
+}*/
 /*
 div[class$="parent"] {
   display: none;
