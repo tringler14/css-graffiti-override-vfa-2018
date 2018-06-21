@@ -3,6 +3,9 @@
   display: none;
 }
 
+id, #tag-2{
+  display: none;
+}
 /*
 div + div{
   display: none;
