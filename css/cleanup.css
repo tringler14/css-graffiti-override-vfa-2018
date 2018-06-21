@@ -7,3 +7,4 @@ div + div{
   display: none;
 }
 
+div[class$="parent"]
