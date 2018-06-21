@@ -11,6 +11,6 @@ div + div{
   display: none;
 }
 
-class="tag-1" + div {
+div[id$class="tag-1" + div {
   display: none;
 }
