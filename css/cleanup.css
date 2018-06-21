@@ -7,9 +7,6 @@
   display: none;
 }
 
-div + div{
-  display: none;
-}*/
 /*
 div[class$="parent"] {
   display: none;
