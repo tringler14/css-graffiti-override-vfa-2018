@@ -18,6 +18,6 @@ body > #wall #tag-2{
 [class$="tag-1"] + id {
   display: none;
 }
-div#wall #tag-3.slick{
+body > div#wall #tag-3.slick{
   display: none;
 }
