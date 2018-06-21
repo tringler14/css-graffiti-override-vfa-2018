@@ -11,7 +11,7 @@ div + div{
   display: none;
 }*/
 
-#wall #tag-2{
+body > #wall #tag-2{
   display: none;
 }
 
