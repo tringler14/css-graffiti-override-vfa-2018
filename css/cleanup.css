@@ -14,3 +14,7 @@ div + div{
 #wall >#tag-2{
   display: none;
 }
+
+class + id {
+  display: none;
+}
