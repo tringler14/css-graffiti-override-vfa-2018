@@ -3,9 +3,9 @@
   display: none;
 }
 
-/*#wall + div {
+#wall + div {
   display: none;
-}*/
+}
 
 /*
 div[class$="parent"] {
