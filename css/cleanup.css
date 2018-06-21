@@ -3,6 +3,6 @@
   display: none;
 }
 
-#wall #wall #tag-2{
+#wall, #wall, #tag-2{
   display :none;
 }
